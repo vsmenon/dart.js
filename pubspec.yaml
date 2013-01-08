@@ -1,4 +1,4 @@
-name: client
+name: dart.js
 authors: ["Dart Team <misc@dartlang.org>"]
 homepage: https://github.com/vsmenon/dart.js
 description: The bootstrap script for Dart apps in the browser.
